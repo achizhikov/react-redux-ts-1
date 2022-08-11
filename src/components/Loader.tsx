@@ -1,7 +1,5 @@
-import React from 'react';
+import React from 'react'
 
 export function Loader() {
-  return (
-    <p className='text-center'>Loading...</p>
-  )
+  return <p className='text-center'>Loading...</p>
 }
